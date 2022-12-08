@@ -1,5 +1,5 @@
 body{
-    background-image: url(Img/Frame\ 19.png );
+    background-image: url(Img/Frame19.png );
     display: grid;
     background-size: cover;
    
@@ -11,6 +11,8 @@ footer{
     place-content: center; 
     font-size: .75rem;
     border-top: 2px solid #fff;
+    margin-top: 222px;
+    color: #fff;
 }
 
 @media (max-width:640px)  {
