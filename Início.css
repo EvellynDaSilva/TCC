@@ -1,0 +1,22 @@
+body{
+    background-image: url(Img/Frame\ 19.png );
+    display: grid;
+    background-size: cover;
+   
+}
+footer{
+    height: 50px;
+    width: 100%;
+    display: grid;
+    place-content: center; 
+    font-size: .75rem;
+    border-top: 2px solid #fff;
+}
+
+@media (max-width:640px)  {
+    footer{
+        margin-top: 100px;
+        margin-left: -150px;
+        width: 78%;
+    }
+}
